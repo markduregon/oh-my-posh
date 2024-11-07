@@ -1,2 +1,2 @@
 # oh-my-posh
-oh my posh Terminal Theme
+My oh my posh Terminal Theme(s)
